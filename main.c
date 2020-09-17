@@ -1,6 +1,5 @@
 /*
     --* Hecho en conjunto con Hector Alexis Reyes Manrique (A01339607) *--
-    
     Alumno: Daniela Vignau León
     Fecha: 17 de septiembre de 2020
     Materia: Programación Avanzada
