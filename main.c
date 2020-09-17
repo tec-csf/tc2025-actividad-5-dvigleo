@@ -1,6 +1,6 @@
 /*
     --* Hecho en conjunto con Hector Alexis Reyes Manrique (A01339607) *--
-    Alumno: Daniela Vignau León
+    Alumno: Daniela Vignau León (A01021698)
     Fecha: 17 de septiembre de 2020
     Materia: Programación Avanzada
     Profesor: Vicente Cubells
